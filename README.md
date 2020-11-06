@@ -9,7 +9,7 @@ I upload my jupyter notebook for this project and here are some images, metrics 
 
 ![alt text](covid.JPG)  ![alt text](health.JPG) ![alt text](pneu.JPG)
 
-![alt text](metrics_covid.JPG)
+![alt text](metricas_covid.JPG)
 
 ![alt text](heatmap.JPG)
 

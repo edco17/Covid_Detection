@@ -7,7 +7,11 @@ The objective was to build a Neural Network for Covid detection using the data f
 
 I upload my jupyter notebook for this project and here are some images, metrics and plots of my results.
 
-![alt text](covid.JPG)  ![alt text](health.JPG)
+![alt text](covid.JPG)  ![alt text](health.JPG) ![alt text](pneu.JPG)
+
+![alt text](metrics_covid.JPG)
+
+![alt text](heatmap.JPG)
 
 Thank you for reading.
 
